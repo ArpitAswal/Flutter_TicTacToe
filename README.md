@@ -24,3 +24,7 @@ End Game: After a win or draw, a result screen displays the outcome, with option
 To explain how TicTacToe works:
 
 Gameplay: The game is played on a 3x3 grid. Players take turns to mark empty grid spaces with their symbol (X or O). The goal is to get three of their symbols in a row, either horizontally, vertically, or diagonally. If all spaces are filled without a winner, the game ends in a draw.
+
+Description: TicTacToe is a classic game built using Flutter and Dart, designed for users to play against an opponent on a single device. The app offers an engaging and seamless user experience, starting with a smooth splash screen animation, followed by an interactive interface. Players can choose between X and O and engage in a 3x3 grid match. The app keeps track of each player's winning streak and provides useful controls like restarting the game or resetting the scores.
+
+After every match, whether won or drawn, a result screen appears, showing the winner or indicating a draw, with options to replay or exit the game. Future updates will include an AI feature for users to play against the computer, enhancing the gameplay experience. The app is intuitive, user-friendly, and provides a simple yet enjoyable way to play TicTacToe with polished UI elements and smooth transitions.
